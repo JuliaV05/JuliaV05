@@ -1,9 +1,9 @@
 ### Hello!  Welcome to my GitHub profile 👋
    # 💫 I'm Júlia Viana. Glad to see you here!
    
-   🔭 My ongoing projects focus on: JavaScript e React. 
-    ⚡ Fun fact: **I speak Portuguese and learning English!**
-    🌱 I’m also a full-time programming student at Trybe.
+  - 🔭 My ongoing projects focus on: JavaScript e React. 
+  - ⚡ Fun fact: **I speak Portuguese and learning English!**
+  - 🌱 I’m also a full-time programming student at Trybe.
 
 
 ## 🌐 Socials:
