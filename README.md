@@ -1,5 +1,5 @@
 ### Hello!  Welcome to my GitHub profile 👋
-   # 💫 I'm Júlia. Glad to see you here!
+   # 💫 I'm Júlia Viana. Glad to see you here!
    
    🔭 My ongoing projects focus on: JavaScript e React. 
     ⚡ Fun fact: **I speak Portuguese and learning English!**
