@@ -1,6 +1,9 @@
 ### Hello!  Welcome to my GitHub profile 👋
-   # 💫 About Me:
-                           ## I'm Júlia. Glad to see you here! ##<br><br><br>🔭 My ongoing projects focus on: JavaScript e React.  <br>⚡ Fun fact: **I speak Portuguese and learning English!**<br>🌱 I’m also a full-time programming student at Trybe.<br>
+   # 💫 I'm Júlia. Glad to see you here!
+   
+   🔭 My ongoing projects focus on: JavaScript e React. 
+    ⚡ Fun fact: **I speak Portuguese and learning English!**
+    🌱 I’m also a full-time programming student at Trybe.
 
 
 ## 🌐 Socials:
