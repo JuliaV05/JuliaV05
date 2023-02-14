@@ -1,7 +1,7 @@
 ### Hello!  Welcome to my GitHub profile 👋
    # 💫 I'm Júlia Viana. Glad to see you here!
    
-  - :computer: I'm a front-end web developer.
+  - :computer:  I'm a front-end web developer.
   - 🔭 My ongoing projects focus on: JavaScript e React. 
   - ⚡ Fun fact: **I speak Portuguese and learning English!**
   - 🌱 I’m also a full-time programming student at Trybe.
