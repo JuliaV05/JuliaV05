@@ -3,7 +3,7 @@
 
 #### Eu sou a Júlia Viana, Desenvolvedora Front-End formada na instituição Trybe.👩🏾‍💻
 
-Minha primeira experiência com programação foi em 2021, criando sites no Wordpress assistindo a videoaulas no Youtube. Após terminar o ensino médio eu queria muito trabalhar com algo que envolvesse internet, foi então que eu me encontrei em programação. No curso eu aprendi a programar do zero, tive oportunidades de fazer e participar de projetos utilizando a linguagem JavaScript, com React, entre outras hards skills. E também desenvolvi soft skills através dos trabalhos em equipe.
+Em 2021, iniciei minha jornada na programação, construindo sites no WordPress por meio de videoaulas no YouTube. Após concluir o ensino médio, descobri minha paixão por desenvolvimento web. Ao longo do curso, aprendi programação desde o básico, destacando habilidades em JavaScript e React. Participei ativamente de projetos, aprimorando minhas hard skills, e desenvolvi habilidades interpessoais ao colaborar em trabalhos de equipe. Estou muito animada em seguir uma carreira que une minha paixão pela internet e habilidades em programação.
 
 Tenho experiência com JavaScript, React, incluindo Componentes Controlados, Ciclo de vida, Router, Testes com RTL, Redux com React. Também tenho conhecimento em MySQL, Node.js, Arquitetura em camadas, e mais alguns.🤓
 
