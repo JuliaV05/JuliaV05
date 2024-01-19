@@ -39,9 +39,7 @@
            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React Badge">
      </a>
     </div>
-
 <br>
-
 
 [![](https://visitcount.itsvg.in/api?id=JuliaV05&icon=0&color=0)](https://visitcount.itsvg.in)
 
