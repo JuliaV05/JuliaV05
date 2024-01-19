@@ -7,9 +7,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juliav05&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Júlia Viana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliav05&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-
-## <h3 align="center"> 🌐 Minhas redes sociais:</h3>
-
+<br>
  <div align="center">
  <a href="https://www.instagram.com/jullia_viana/">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -18,8 +16,8 @@
  </a>
 </div>
 
- # <h3 align="center">💻 Minhas stacks preferidas:</h3>
- <div align="center">
+ # <h3>💻 Minhas stacks preferidas:</h3>
+ <div>
      <a href="https://www.w3.org/html/" target="_blank">
          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge">
     </a>
@@ -40,7 +38,10 @@
      </a>
     </div>
 <br>
-
-[![](https://visitcount.itsvg.in/api?id=JuliaV05&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+    <a href="https://visitcount.itsvg.in/api?id=JuliaV05&icon=0&color=0" target="_blank">
+        <img src="https://visitcount.itsvg.in/api?id=JuliaV05&icon=0&color=0" alt="Contador de Visitas">
+    </a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
