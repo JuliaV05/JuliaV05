@@ -18,7 +18,7 @@
  </a>
 </div>
 
- # <h3 align="center">💻 Minhas Stacks:</h3>
+ # <h3 align="center">💻 Minhas stacks preferidas:</h3>
  <div align="center">
      <a href="https://www.w3.org/html/" target="_blank">
          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge">
@@ -41,6 +41,7 @@
     </div>
 
 <br>
+
 
 [![](https://visitcount.itsvg.in/api?id=JuliaV05&icon=0&color=0)](https://visitcount.itsvg.in)
 
